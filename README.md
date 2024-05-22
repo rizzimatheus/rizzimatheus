@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-**Currently working as a DevOps Engineer with a strong interest in Site Reliability Engineering (SRE) and Cloud Engineering. I thrive on automating workflows, optimizing infrastructure, and leveraging cloud technologies to build robust, scalable systems.**
+**I am currently working as a DevOps Engineer with a strong interest in Site Reliability Engineering (SRE) and Cloud Engineering. I thrive on automating workflows, optimizing infrastructure, and leveraging cloud technologies to build robust, scalable systems.**
 
 ## 🧰 Languages and Tools
 <div>
